@@ -32,11 +32,13 @@ For the "Outcomes Based on Goals" chart, the challenged part was using COUNTIFS 
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 ![image_name4](Statistics_Theater_Outcomes_by_launchdate.png)
+
 1. It seems that there is a correlation between succesful outcomes and failed outcomes
 2. There were few months that had more succesful and failed outcomes than the rest of the months. 
 
 ### What can you conclude about the Outcomes based on Goals?
 ![image_name5](Statistics_Outcomes_BasedonGoal.png)
+
 There was less cases of range of goals with low percentage of success.
 There was less cases of range of goals with higher percetange of failed. 
 
