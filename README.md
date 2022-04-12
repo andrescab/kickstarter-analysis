@@ -10,6 +10,7 @@ Louise's play Fever, which was closed to its fundraising goal in a short amount 
 
 ### Analysis of Outcomes Based on Launch Date
 ![image_name](All Categories Outcomes by Launch date.png)
+
 ![image_name](Theater_Outcomes_vs_Launch.png)
 As we can see in both images, The succcesful campaings were greater than failed
 and canceled. Also, December was the lowest number of succesful camapaigns. I found that succesful and failed Campaigns seems to be 
