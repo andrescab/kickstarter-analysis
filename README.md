@@ -9,7 +9,7 @@ Louise's play Fever, which was closed to its fundraising goal in a short amount 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![image_name1](All Categories Outcomes by Launch date.png)
+![image_name1](AllCategories_Outcomes_Launchdate.png)
 
 ![image_name2](Theater_Outcomes_vs_Launch.png)
 As we can see in both images, The succcesful campaings were greater than failed
@@ -31,12 +31,12 @@ For the "Outcomes Based on Goals" chart, the challenged part was using COUNTIFS 
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
-![image_name4](Statistics_Theater_Outcomes_by_launch_date.png)
+![image_name4](Statistics_Theater_Outcomes_by_launchdate.png)
 1. It seems that there is a correlation between succesful outcomes and failed outcomes
 2. There were few months that had more succesful and failed outcomes than the rest of the months. 
 
 ### What can you conclude about the Outcomes based on Goals?
-![image_name5](Statistics_Outcomes_Based_on_Goal.png)
+![image_name5](Statistics_Outcomes_BasedonGoal.png)
 There was less cases of range of goals with low percentage of success.
 There was less cases of range of goals with higher percetange of failed. 
 
