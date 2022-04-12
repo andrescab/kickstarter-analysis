@@ -3,6 +3,8 @@
 ## Overview of Project
 
 ### Purpose
+![image_name](Outcomes_vs_Goals.png)
+![image_name](Theater_Outcomes_vs_Launch.png)
 The aim of this project is to analyze how well performed were the campaign outcomes of
 Louise's play Fever, which was closed to its fundraising goal in a short amount of time, based on their launch dates and their funding goals 
 
