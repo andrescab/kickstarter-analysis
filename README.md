@@ -9,7 +9,7 @@ Louise's play Fever, which was closed to its fundraising goal in a short amount 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![image_namea1](AllCategories1_Outcomes_Launchdate.png)
+![image_namea1](AllCategories2_Outcomes_Launchdate.png)
 
 ![image_nameb](Theater_Outcomes_vs_Launch.png)
 As we can see in both images, The succcesful campaings were greater than failed
